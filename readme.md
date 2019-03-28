@@ -40,18 +40,27 @@ Examples:
 ## Other resources 
 
 ### Machine Learning Resources:
+
 http://ml4a.github.io/ (Machine Learning for Artists)
+
 https://www.codecademy.com/learn/learn-python (Learn Python)
 
 
 
 ### Some projects for inspo:
+
 http://www.sarahmeyohas.com/rosesatbell (Roses at Bell Labs)
+
 https://artsexperiments.withgoogle.com/xdegrees/8gHu5Z5RF4BsNg/BgHD_Fxb-V_K3A/ (X Degrees of separation from Google Creative Lab)
+
 https://www.youtube.com/watch?v=yzJk6ww3LD0 (Machine Learning Rotoscope)
+
 https://3milychu.github.io/pages/kmeansfashion.html (Analyzing shapes from the Met)
+
 https://glitch.com/@blprnt (Creative ways of searching through the Library of Congress archive from Jer Thorpe's class Artist in the Archive)
+
 http://www.adrianaramic.com/ (Adriana Ramic)
+
 http://dinakelberman.tumblr.com/ (Dina Kelberman)
 
 
