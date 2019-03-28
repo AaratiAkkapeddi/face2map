@@ -4,17 +4,13 @@ Face Vector to Topographic Map
 ========================
 
 '''
-from mpl_toolkits.mplot3d import axes3d
-import numpy as np
+
+
 import sys
 import matplotlib
-from matplotlib import cm
 import face_recognition
-from natsort import natsorted, ns
+from mpl_toolkits.mplot3d import axes3d
 import matplotlib.pyplot as plt
-import matplotlib.tri as mtri
-from scipy.interpolate import griddata
-import scipy
 import math
 import os
 
@@ -29,6 +25,7 @@ def write_face(filename):
     try:
         gotdata = face_recognition.face_encodings(face)[0]
         face_encoding = face_recognition.face_encodings(face)[0]
+        print(face_encoding)
         encoding = list(group(face_encoding, 4))
         x = []
         y = []
