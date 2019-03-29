@@ -48,6 +48,7 @@ https://www.codecademy.com/learn/learn-python (Learn Python)
 
 
 ### Some projects for inspo:
+http://rhizome.org/ (Arts Organization)
 
 http://www.sarahmeyohas.com/rosesatbell (Roses at Bell Labs)
 
